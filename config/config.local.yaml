@@ -1,0 +1,21 @@
+logger:
+  level: 5
+
+mysql:
+  name: main
+  host: localhost
+  port: 3306
+  user: root
+  pass: root
+  database: app
+
+rabbitmq:
+  user: root
+  pass: root
+  host: localhost
+  port: 5672
+
+
+
+
+
